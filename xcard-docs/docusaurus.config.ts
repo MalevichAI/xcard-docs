@@ -10,14 +10,14 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://xcard.malevich.ai',
+  url: 'https://malevichai.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/xcard-docs/',
 
   organizationName: 'MalevichAI', // Usually your GitHub org/user name.
   projectName: 'xcard-docs', // Usually your repo name.
-
+  deploymentBranch: 'gh-pages',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
