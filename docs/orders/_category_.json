@@ -1,0 +1,8 @@
+{
+    "label": "Заявки",
+    "position": 1,
+    "link": {
+        "type": "generated-index",
+        "description": "Инструкция по разделу 'Заявки'"
+    }
+}
